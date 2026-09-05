@@ -2,7 +2,6 @@
 
 Projeto acadêmico desenvolvido para a Fase 2 do CardioIA.
 
-
 ## Continuidade com a Fase 1
 
 A Fase 1 do CardioIA estabeleceu uma base multimodal com dados clínicos estruturados, textos cardiovasculares e imagens de ECG:
@@ -146,8 +145,10 @@ Uma aplicação real exigiria dados representativos, validação médica, métri
 
 ## Integrantes
 
-- **Nome:** PREENCHER
-- **RM:** PREENCHER
+- **Cláudio Sartori** — RM 567194
+- **Douglas Rafael do Amaral** — RM 566740
+- **Pedro Alves da Silva** — RM 567029
+- **William A. C. Vasconcelos** — RM 567096
 
 ## Vídeo
 
