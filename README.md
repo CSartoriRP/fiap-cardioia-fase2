@@ -152,6 +152,6 @@ Uma aplicação real exigiria dados representativos, validação médica, métri
 
 ## Vídeo
 
-YouTube (não listado, até 4 minutos):
+YouTube: 
 
-**PREENCHER_LINK_DO_VIDEO**
+**https://youtu.be/hVPEPrxfVpU**
