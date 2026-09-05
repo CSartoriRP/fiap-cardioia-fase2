@@ -1,0 +1,32 @@
+﻿termo,sintoma_normalizado,diagnostico_possivel,peso
+pressao no peito,dor ou pressão torácica,Síndrome coronariana aguda,3
+dor no peito,dor ou pressão torácica,Síndrome coronariana aguda,2
+dor irradiando para o braco esquerdo,irradiação da dor,Síndrome coronariana aguda,4
+suor frio,sudorese,Síndrome coronariana aguda,3
+nausea,náusea,Síndrome coronariana aguda,2
+falta de ar,dispneia,Síndrome coronariana aguda,1
+dor no peito,dor ou pressão torácica,Angina estável,2
+aperto no peito,dor ou pressão torácica,Angina estável,3
+pressao no peito,dor ou pressão torácica,Angina estável,2
+esforco fisico,desencadeado por esforço,Angina estável,2
+caminha rapidamente,desencadeado por esforço,Angina estável,2
+melhora apos alguns minutos de repouso,melhora com repouso,Angina estável,4
+desaparece quando para para descansar,melhora com repouso,Angina estável,4
+palpitacoes,palpitações,Arritmia cardíaca,3
+batimentos cardiacos acelerados,taquicardia,Arritmia cardíaca,3
+irregulares,ritmo irregular,Arritmia cardíaca,3
+tontura,tontura,Arritmia cardíaca,1
+desmaio,síncope,Arritmia cardíaca,4
+fraqueza,fraqueza,Arritmia cardíaca,1
+falta de ar,dispneia,Insuficiência cardíaca,2
+cansaco,fadiga,Insuficiência cardíaca,2
+cansaco intenso,fadiga,Insuficiência cardíaca,2
+cansaco progressivo,fadiga progressiva,Insuficiência cardíaca,3
+inchaco nas pernas,edema periférico,Insuficiência cardíaca,4
+tornozelos inchados,edema periférico,Insuficiência cardíaca,4
+acorda a noite com falta de ar,dispneia paroxística noturna,Insuficiência cardíaca,4
+varios travesseiros,ortopneia,Insuficiência cardíaca,4
+dor de cabeca,cefaleia,Hipertensão arterial,2
+tontura,tontura,Hipertensão arterial,1
+visao turva,alteração visual,Hipertensão arterial,3
+pressao intensa no centro do peito,dor ou pressão torácica,Síndrome coronariana aguda,4
